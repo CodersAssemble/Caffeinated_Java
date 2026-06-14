@@ -38,15 +38,57 @@ java FileName
 
 ## Project Structure
 
-src/
-├── basics/
-├── arrays/
-├── strings/
-├── collections/
-├── oops/
-├── exceptions/
-├── java8/
-└── interviewprograms/
+Caffeinated_Java
+│
+├── src
+│   ├── basics
+│   │   ├── HelloWorld.java
+│   │   ├── VariablesAndDataTypes.java
+│   │   ├── OperatorsDemo.java
+│   │   ├── IfElseDemo.java
+│   │   ├── SwitchCaseDemo.java
+│   │   ├── ForLoopDemo.java
+│   │   ├── WhileLoopDemo.java
+│   │   └── ScannerInputDemo.java
+│   │
+│   ├── strings
+│   │   ├── ReverseString.java
+│   │   ├── Palindrome.java
+│   │   └── CharacterCount.java
+│   │
+│   ├── arrays
+│   │   ├── ArraySorting.java
+│   │   ├── FindDuplicates.java
+│   │   └── LargestElement.java
+│   │
+│   ├── collections
+│   │   ├── ArrayListExample.java
+│   │   ├── HashMapExample.java
+│   │   └── HashSetExample.java
+│   │
+│   ├── oops
+│   │   ├── InheritanceDemo.java
+│   │   ├── PolymorphismDemo.java
+│   │   ├── EncapsulationDemo.java
+│   │   └── AbstractionDemo.java
+│   │
+│   ├── exceptions
+│   │   └── ExceptionHandlingDemo.java
+│   │
+│   ├── filehandling
+│   │   └── ReadFileDemo.java
+│   │
+│   ├── java8
+│   │   ├── LambdaExample.java
+│   │   └── StreamsExample.java
+│   │
+│   └── interviewprograms
+│       ├── FibonacciSeries.java
+│       ├── PrimeNumber.java
+│       ├── ArmstrongNumber.java
+│       └── Factorial.java
+│
+└── README.md
 
 ## Learning Goal
 
