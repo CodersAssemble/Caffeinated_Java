@@ -66,7 +66,7 @@ Caffeinated_Java
 │   │   ├── HashMapExample.java
 │   │   └── HashSetExample.java
 │   │
-│   ├── oops
+│   ├── encapsulation
 │   │   ├── InheritanceDemo.java
 │   │   ├── PolymorphismDemo.java
 │   │   ├── EncapsulationDemo.java
